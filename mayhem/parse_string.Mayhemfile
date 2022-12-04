@@ -1,0 +1,6 @@
+project: inih
+target: parse_string
+
+cmds:
+  - cmd: /inihfuzz_string
+    libfuzzer: true
